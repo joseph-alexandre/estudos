@@ -28,7 +28,7 @@ Abra o prompt de comando e insira o comando:
 
 `setx PATH "%PATH%;[pasta_raiz_do_node]\bin";`
 
-#### Ubuntu
+##### Ubuntu
 
 Abra o terminal e insira o comando:
 
