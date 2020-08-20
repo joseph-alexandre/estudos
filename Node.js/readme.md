@@ -4,13 +4,13 @@ Existem duas maneiras de se instalar o Node.js na máquina, estas são:
 
 ### 1. Gerenciador de pacote.
 
-##### Windows
+#### Windows
 
 Utilizando **Chocolatey:**
 
 `choco install nodejs-lts`
 
-##### Ubuntu
+#### Ubuntu
 
 Utilizando **APT**:
 
@@ -22,13 +22,13 @@ Nesse caso, é necessário acessar o site oficial do [Node.js](https://nodejs.or
 
 Após baixar os arquivos, é preciso definir a variável de ambiente para o correto funcionamento do Node.js no sistema.
 
-##### Windows
+#### Windows
 
 Abra o prompt de comando e insira o comando:
 
 `setx PATH "%PATH%;[pasta_raiz_do_node]\bin";`
 
-##### Ubuntu
+#### Ubuntu
 
 Abra o terminal e insira o comando:
 
