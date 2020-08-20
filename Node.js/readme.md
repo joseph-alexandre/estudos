@@ -2,14 +2,15 @@ Esse espaço destina-se para documentar todo meu conhecimento (ou a maior parte 
 
 ## Sumário
 1. [Instalação do Node.js](#instalação-do-node.js)
-    1. [Windows](#windows)
-    2. [Ubuntu](#ubuntu)
-
+    1. [Gerenciador de pacote](#1.-gerenciador-de-pacote)
+    2. [Instalação manual](#2.-instalação-manual)
+    
+    
 ## Instalação do Node.js
 
 Existem duas maneiras de se instalar o Node.js na máquina, estas são:
 
-### 1. Gerenciador de pacote.
+### 1. Gerenciador de pacote
 
 #### Windows
 
@@ -23,7 +24,7 @@ Utilizando **APT**:
 
 `sudo apt install nodejs`
 
-### 2. Instalação manual.
+### 2. Instalação manual
 
 Nesse caso, é necessário acessar o site oficial do [Node.js](https://nodejs.org/en/) para obter os intaladores e/ou arquivos necessários.
 
