@@ -42,4 +42,4 @@ Abra o terminal e insira o comando:
 
 `export PATH=$PATH:/usr/local/[pasta_raiz_do_node]/bin`
 
-Ao utilizar um gerenciador de pacote para realizar a instalação, a variável de ambiente é definida automaticamente.s
+Ao utilizar um gerenciador de pacote para realizar a instalação, a variável de ambiente é definida automaticamente.
