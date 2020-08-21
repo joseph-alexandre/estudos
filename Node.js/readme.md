@@ -2,4 +2,4 @@ Esse espaço destina-se para documentar todo meu conhecimento (ou a maior parte 
 
 ## Sumário
 
-1. [Instalação do Node.js](#instalação-do-node.js)
+1. [Instalação do Node.js](https://github.com/joseph-alexandre/estudos/blob/master/Node.js/instalacao.md)
